@@ -63,3 +63,7 @@ ignore: null
 theme: icarus
 deploy:
   type: ''
+admin:
+  username: ylgr
+  password_hash: $2a$10$c04NkUK6x1hH6SI0x9nkjODSadvcdha6AoviSAQuPfpTt6rbjfjKO
+  secret: Order, entropy. It's never ending cycle!
