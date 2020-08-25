@@ -198,8 +198,8 @@ widgets:
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
+            Telegram:
+                icon: fab fa-telegram
                 url: 'https://twitter.com'
             Dribbble:
                 icon: fab fa-dribbble
